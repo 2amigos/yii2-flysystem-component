@@ -1,4 +1,4 @@
-# The MIT License (MIT)
+# The BSD License (BSD)
 
 Copyright (c) 2013-{year}, 2amigOS! Consulting Group LLC.
 
