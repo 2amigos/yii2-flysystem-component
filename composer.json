@@ -9,7 +9,7 @@
         ":package_name"
     ],
     "homepage": "https://github.com/dosamigos/:package_name",
-    "license": "MIT",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "2amigOS! Consulting Group",
