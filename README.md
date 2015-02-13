@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/travis/2amigos/:package_name/master.svg?style=flat-square)](https://travis-ci.org/2amigos/:package_name)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/2amigos/:package_name.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/:package_name/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/2amigos/:package_name.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/:package_name)
-[![Total Downloads](https://img.shields.io/packagist/dt/league/:package_name.svg?style=flat-square)](https://packagist.org/packages/2amigos/:package_name)
+[![Total Downloads](https://img.shields.io/packagist/dt/2amigos/:package_name.svg?style=flat-square)](https://packagist.org/packages/2amigos/:package_name)
 
 **Note:** Replace ```:author_name``` ```:author_username``` ```:author_website``` ```:author_email``` ```:package_name``` 
 ```:package_description``` with theirs correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), 
