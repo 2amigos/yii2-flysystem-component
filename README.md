@@ -27,7 +27,7 @@ $ composer require 2amigos/:package_name
 
 ``` php
 $skeleton = new dosamigos\Skeleton();
-echo $skeleton->echoPhrase('Hello, League!');
+echo $skeleton->echoPhrase('Hello, Yii2!');
 ```
 
 ## Testing
