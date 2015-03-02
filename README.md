@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/travis/2amigos/:package_name/master.svg?style=flat-square)](https://travis-ci.org/2amigos/:package_name)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/2amigos/:package_name.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/:package_name/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/2amigos/:package_name.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/:package_name)
-[![Total Downloads](https://img.shields.io/packagist/dt/league/:package_name.svg?style=flat-square)](https://packagist.org/packages/2amigos/:package_name)
+[![Total Downloads](https://img.shields.io/packagist/dt/2amigos/:package_name.svg?style=flat-square)](https://packagist.org/packages/2amigos/:package_name)
 
 **Note:** Replace ```:author_name``` ```:author_username``` ```:author_website``` ```:author_email``` ```:package_name``` 
 ```:package_description``` with theirs correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), 
@@ -27,7 +27,7 @@ $ composer require 2amigos/:package_name
 
 ``` php
 $skeleton = new dosamigos\Skeleton();
-echo $skeleton->echoPhrase('Hello, League!');
+echo $skeleton->echoPhrase('Hello, Yii2!');
 ```
 
 ## Testing
@@ -47,8 +47,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The BSD License (BSD). Please see [License File](LICENSE.md) for more information.
 
-> [![2amigOS!](http://www.gravatar.com/avatar/55363394d72945ff7ed312556ec041e0.png)](http://www.2amigos.us)
-<i>web development has never been so fun</i>
+> [![2amigOS!](http://www.gravatar.com/avatar/55363394d72945ff7ed312556ec041e0.png)](http://www.2amigos.us)  
+<i>web development has never been so fun</i>  
 [www.2amigos.us](http://www.2amigos.us)
