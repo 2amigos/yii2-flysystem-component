@@ -38,7 +38,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "dosamigos\\skeleton\\test\\": "tests"
+            "dosamigos\\skeleton\\tests\\": "tests"
         }
     },
     "extra": {
