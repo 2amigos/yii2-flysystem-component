@@ -1,9 +1,12 @@
 {
     "name": "dosamigos/:package_name",
     "description": ":package_description",
+    "type": ":package_type",
     "keywords": [
         "dosamigos",
         "yii",
+        "yii2",
+        "yii 2",
         "extension",
         ":package_type",
         ":package_name"
@@ -18,8 +21,11 @@
             "role": "Developer"
         }
     ],
+    "support": {
+        "issues": "https://github.com/dosamigos/:package_name/issues",
+        "source": "https://github.com/dosamigos/:package_name"
+    },
     "require": {
-        "php" : ">=5.4.0",
         "yiisoft/yii2" : "*"
     },
     "require-dev": {
