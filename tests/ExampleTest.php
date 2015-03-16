@@ -1,6 +1,6 @@
 <?php
 
-namespace dosamigos\skeleton\test;
+namespace dosamigos\skeleton\tests;
 
 class ExampleTest extends \PHPUnit_Framework_TestCase
 {

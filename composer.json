@@ -1,14 +1,17 @@
 {
-    "name": "dosamigos/:package_name",
+    "name": "2amigos/:package_name",
     "description": ":package_description",
+    "type": ":package_type",
     "keywords": [
-        "dosamigos",
+        "2amigos",
         "yii",
+        "yii2",
+        "yii 2",
         "extension",
         ":package_type",
         ":package_name"
     ],
-    "homepage": "https://github.com/dosamigos/:package_name",
+    "homepage": "https://github.com/2amigos/:package_name",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -18,8 +21,11 @@
             "role": "Developer"
         }
     ],
+    "support": {
+        "issues": "https://github.com/2amigos/:package_name/issues",
+        "source": "https://github.com/2amigos/:package_name"
+    },
     "require": {
-        "php" : ">=5.4.0",
         "yiisoft/yii2" : "*"
     },
     "require-dev": {
@@ -29,11 +35,6 @@
     "autoload": {
         "psr-4": {
             "dosamigos\\skeleton\\": "src"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "dosamigos\\skeleton\\test\\": "tests"
         }
     },
     "extra": {
