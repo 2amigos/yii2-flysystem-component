@@ -36,11 +36,6 @@
             "dosamigos\\skeleton\\": "src"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "dosamigos\\skeleton\\tests\\": "tests"
-        }
-    },
     "extra": {
         "branch-alias": {
             "dev-master": "1.0-dev"
