@@ -1,17 +1,17 @@
 {
-    "name": "2amigos/:package_name",
-    "description": ":package_description",
-    "type": ":package_type",
+    "name": "2amigos/yii2-flysystem-component",
+    "description": "The League Flysystem integration for Yii Framework",
+    "type": "yii2-extension",
     "keywords": [
         "2amigos",
         "yii",
         "yii2",
         "yii 2",
         "extension",
-        ":package_type",
-        ":package_name"
+        "yii2-extension",
+        "yii2-flysystem-component"
     ],
-    "homepage": "https://github.com/2amigos/:package_name",
+    "homepage": "https://github.com/2amigos/yii2-flysystem-component",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -22,21 +22,31 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/2amigos/:package_name/issues",
-        "source": "https://github.com/2amigos/:package_name"
+        "issues": "https://github.com/2amigos/yii2-flysystem-component/issues",
+        "source": "https://github.com/2amigos/yii2-flysystem-component"
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "league/flysystem": "^1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
         "friendsofphp/php-cs-fixer": "^2.0",
         "squizlabs/php_codesniffer": "*",
-        "phpmd/phpmd": "@stable"
+        "phpmd/phpmd": "@stable",
+        "league/flysystem-aws-s3-v3": "^1.0",
+        "spatie/flysystem-dropbox": "^1.0",
+        "league/flysystem-rackspace": "^1.0",
+        "league/flysystem-gridfs": "^1.0",
+        "league/flysystem-sftp": "^1.0",
+        "league/flysystem-webdav": "^1.0",
+        "league/flysystem-ziparchive": "^1.0"
     },
     "autoload": {
         "psr-4": {
-            "dosamigos\\skeleton\\": "src"
+            "dosamigos\\flysystem\\": "src"
         }
     },
     "extra": {

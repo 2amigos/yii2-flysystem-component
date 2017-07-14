@@ -1,10 +1,10 @@
 <?php
 /**
- * @link https://github.com/2amigos/:package_name
- * @copyright Copyright (c) 2013-{YEAR} 2amigOS! Consulting Group LLC
+ * @link https://github.com/2amigos/yii2-flysystem-component
+ * @copyright Copyright (c) 2013-2017 2amigOS! Consulting Group LLC
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
-namespace dosamigos\skeleton;
+namespace dosamigos\flysystem;
 
 class SkeletonClass
 {
