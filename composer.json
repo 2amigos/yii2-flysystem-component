@@ -29,7 +29,10 @@
         "yiisoft/yii2": "*"
     },
     "require-dev": {
-        "phpunit/phpunit": "~4.0"
+        "phpunit/phpunit": "~4.0",
+        "friendsofphp/php-cs-fixer": "^2.0",
+        "squizlabs/php_codesniffer": "*",
+        "phpmd/phpmd": "@stable"
     },
     "autoload": {
         "psr-4": {
