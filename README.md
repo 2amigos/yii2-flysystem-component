@@ -8,8 +8,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/2amigos/yii2-flysystem-component.svg?style=flat-square)](https://packagist.org/packages/2amigos/yii2-flysystem-component)
 
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
-PSRs you support to avoid any confusion with users and contributors.
+TODO...
 
 ## Install
 
@@ -21,9 +20,10 @@ $ composer require 2amigos/yii2-flysystem-component
 
 ## Usage
 
+TODO...
+
 ```php
-$skeleton = new dosamigos\Skeleton();
-echo $skeleton->echoPhrase('Hello, Yii2!');
+
 ```
 
 ## Testing
@@ -39,7 +39,6 @@ We have added a PHP code fixer to standardize our code. It includes Symfony, PSR
 ```bash 
 ./vendor/bin/php-cs-fixer fix ./src --config .php_cs
 ```
-
 
 ## Contributing
 
