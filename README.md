@@ -36,6 +36,15 @@ echo $skeleton->echoPhrase('Hello, Yii2!');
 $ phpunit
 ```
 
+## Using code fixer
+
+We have added a PHP code fixer to standardize our code. It includes Symfony, PSR2 and some contributors rules. 
+
+```bash 
+./vendor/bin/php-cs-fixer fix ./src --config .php_cs
+```
+
+
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
