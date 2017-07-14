@@ -7,6 +7,18 @@
         "yii",
         "yii2",
         "yii 2",
+        "flysystem",
+        "filesystem",
+        "files",
+        "aws",
+        "s3",
+        "azure",
+        "dropbox",
+        "ftp",
+        "gridfs",
+        "rackspace",
+        "sftp",
+        "webdav"
         "extension",
         "yii2-extension",
         "yii2-flysystem-component"
