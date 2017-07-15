@@ -13,19 +13,19 @@
 This component library provides components that expose the [Flysystem](http://flysystem.thephpleague.com/) API to your 
 Yii 2 applications. The following are the currently supported ones: 
  
- - [AwsS3FsComponent](#AwsS3FsComponent): Interacts with Amazon S3 buckets. 
- - [AzureFsComponent](#AzureFsComponent): Interfaces with Microsoft Azure.
- - [DropboxFsComponent](#DropboxFsComponent): Interacts with Dropbox.
- - [FtpFsComponent](#FtpFsComponent): Interacts with an FTP server.
- - [GoogleCloudFsComponent](#GoogleCloudFsComponent): Interacts with Google Cloud Storage. 
- - [GridFSFsComponent](#GridFSFsComponent): Interacts with GridFS.
- - [LocalFsComponent](#LocalFsComponent): Interacts with your local server storage.
- - [MemoryFsComponent](#MemoryFsComponent): Interacts with memory. Useful when you don't want anything persisted.
- - [NullFsComponent](#NullFsComponent): Used for testing.
- - [RackspaceFsComponent](#RackspaceFsComponent): Interacts with Rackspace.
- - [SftpFsComponent](#SftpFsComponent): Interacts with an Sftp server.
- - [WebDAVFsComponent](#WebDAVFsComponent): Interacts with WebDAV.
- - [ZipArchiveFsComponent](#ZipArchiveFsComponent): Interacts with zip archives.
+ - [AwsS3FsComponent](#awss3fscomponent): Interacts with Amazon S3 buckets. 
+ - [AzureFsComponent](#azurefscomponent): Interfaces with Microsoft Azure.
+ - [DropboxFsComponent](#dropboxfscomponent): Interacts with Dropbox.
+ - [FtpFsComponent](#ftpfscomponent): Interacts with an FTP server.
+ - [GoogleCloudFsComponent](#googlecloudfscomponent): Interacts with Google Cloud Storage. 
+ - [GridFSFsComponent](#gridfsfscomponent): Interacts with GridFS.
+ - [LocalFsComponent](#localfscomponent): Interacts with your local server storage.
+ - [MemoryFsComponent](#memoryfscomponent): Interacts with memory. Useful when you don't want anything persisted.
+ - [NullFsComponent](#nullfscomponent): Used for testing.
+ - [RackspaceFsComponent](#rackspacefscomponent): Interacts with Rackspace.
+ - [SftpFsComponent](#sftpfscomponent): Interacts with an Sftp server.
+ - [WebDAVFsComponent](#webdavfscomponent): Interacts with WebDAV.
+ - [ZipArchiveFsComponent](#ziparchivefscomponent): Interacts with zip archives.
 
 ## Install
 
