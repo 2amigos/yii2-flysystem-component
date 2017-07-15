@@ -9,18 +9,19 @@
  */
 namespace dosamigos\flysystem;
 
-use League\Flysystem\Adapter\NullAdapter;
+use League\Flysystem\Memory\MemoryAdapter;
 
 /**
- * Used mostly for testing. Acts like "/dev/null"
+ * This adapter keeps the filesystem completely in memory. This is useful when you need a filesystem, but don’t want it
+ * persisted.
  */
-class NullFsComponent extends AbstractFsComponent
+class MemoryFsComponent extends AbstractFsComponent
 {
     /**
-     * @return NullAdapter
+     * @return MemoryAdapter
      */
     protected function initAdapter()
     {
-        return new NullAdapter();
+        return new MemoryAdapter();
     }
 }
