@@ -507,7 +507,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits 
 
-- [crecoder][https://github.com/creocoder] for the original idea of flysystem wrappers
+- [crecoder](https://github.com/creocoder) for the original idea of flysystem wrappers
 - [2amigos](https://github.com/2amigos)
 - [All Contributors](../../contributors)
 
