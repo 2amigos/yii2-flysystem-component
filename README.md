@@ -1,11 +1,10 @@
 # Flysystem Component Wrappers for Yii 2 
 
-[![Latest Version](https://img.shields.io/github/release/2amigos/yii2-flysystem-component.svg?style=flat-square)](https://github.com/2amigos/yii2-flysystem-component/releases)
+[![Latest Stable Version](https://poser.pugx.org/2amigos/yii2-flysystem-component/version)](https://packagist.org/packages/2amigos/yii2-flysystem-component)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/2amigos/yii2-flysystem-component/master.svg?style=flat-square)](https://travis-ci.org/2amigos/yii2-flysystem-component)
-[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/2amigos/yii2-flysystem-component.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/yii2-flysystem-component/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/2amigos/yii2-flysystem-component.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/yii2-flysystem-component)
-[![Total Downloads](https://img.shields.io/packagist/dt/2amigos/yii2-flysystem-component.svg?style=flat-square)](https://packagist.org/packages/2amigos/yii2-flysystem-component)
+[![Total Downloads](https://poser.pugx.org/2amigos/yii2-flysystem-component/downloads)](https://packagist.org/packages/2amigos/yii2-flysystem-component)
 
 
 > [Flysystem](http://flysystem.thephpleague.com/) is a file system abstraction which allows you to easily swap out a 
