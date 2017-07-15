@@ -14,7 +14,7 @@ This component library provides components that expose the [Flysystem](http://fl
 Yii 2 applications. The following are the currently supported ones: 
  
  - [AwsS3FsComponent](#awss3fscomponent): Interacts with Amazon S3 buckets. 
- - [AzureFsComponent](#azurefscomponent): Interfaces with Microsoft Azure.
+ - [AzureFsComponent](#azurefscomponent): Interacts with Microsoft Azure.
  - [DropboxFsComponent](#dropboxfscomponent): Interacts with Dropbox.
  - [FtpFsComponent](#ftpfscomponent): Interacts with an FTP server.
  - [GoogleCloudFsComponent](#googlecloudfscomponent): Interacts with Google Cloud Storage. 
