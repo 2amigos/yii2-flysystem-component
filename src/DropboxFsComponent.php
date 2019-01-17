@@ -17,7 +17,6 @@ use yii\base\InvalidConfigException;
 
 class DropboxFsComponent extends AbstractFsComponent
 {
-
     /**
      * @var string
      */
@@ -53,5 +52,4 @@ class DropboxFsComponent extends AbstractFsComponent
             new Client($this->token), $this->prefix
         );
     }
-
 }
