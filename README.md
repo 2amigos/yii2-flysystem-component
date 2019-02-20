@@ -126,7 +126,7 @@ return [
 Install dependency 
 
 ```bash
-$ composer require league/flysystem-dropbox
+$ composer require spatie/flysystem-dropbox
 ```
 
 Configure on the application `components` section:
@@ -138,8 +138,7 @@ return [
         //...
         'fs' => [
             'class' => 'dosamigos\flysystem\DropboxFsComponent',
-            'token' => 'your-token',
-            'app' => 'your-app',
+            'token' => 'your-access-token',
             // 'prefix' => 'your-prefix',
         ],
     ],
