@@ -87,7 +87,11 @@ abstract class AbstractFsComponent extends Component
      */
     public function __call($method, $parameters)
     {
-        return call_user_func_array([$this->filesystem, $method], $parameters);
+        if (method_exists($this->filesystem, $method)) {
+            return call_user_func_array([$this->filesystem, $method], $parameters);
+        }
+
+        return parent::__call($method, $parameters);
     }
 
     /**
