@@ -87,7 +87,7 @@ class SftpFsComponent extends AbstractFsComponent
                 'root' => $this->root,
                 'permPrivate' => $this->permPrivate,
                 'permPublic' => $this->permPublic,
-                'privatekey' => $this->privateKey
+                'privateKey' => $this->privateKey
             ]
         );
 
